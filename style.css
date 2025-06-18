@@ -1,0 +1,70 @@
+ * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+      background-color: #ffffff;
+      color: #333;
+}
+
+header {
+      background-color: #0077b6;
+      color: white;
+      padding: 20px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+}
+
+header h1 {
+      font-size: 1.8rem;
+}
+
+nav a {
+      color: white;
+      margin-left: 20px;
+      text-decoration: none;
+      font-weight: bold;
+}
+
+.hero {
+      background: url('./corporate-dentist-center-branding-identity-260nw-1556001632.jpg') repeat;
+      height: 90vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+}
+
+.hero h2 {
+      font-size: 2rem;
+      font-style: italic;
+      background-color: rgba(38, 34, 34, 0.5);
+      padding: 20px;
+      border-radius: 30px;
+      
+}
+
+footer {
+      background-color: #003049;
+      color: white;
+      text-align: right;
+      padding: 40px;
+      margin-top: 0px;
+      size: 4px;
+}
+footer p{
+        margin-top: 15x;
+        text-align: end;
+    background: #003049;
+}
+.favi {
+  border-radius: 2px;
+  border-style: groove;
+}
